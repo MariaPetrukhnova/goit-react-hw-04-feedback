@@ -1,0 +1,18 @@
+.btn_bar{
+    display: flex;
+}
+
+.feedback_btn {
+    display: block;
+    width: 100px;
+    height: 30px;
+    text-transform: uppercase;
+    background-color: bisque;
+    border: 1px solid wheat;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.feedback_btn + .feedback_btn {
+    margin-left: 20px;
+}
