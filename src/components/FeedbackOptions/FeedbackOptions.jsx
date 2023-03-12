@@ -20,5 +20,4 @@ FeedbackOptions.propTypes = {
     onLeaveFeedback: PropTypes.func,
 }
 
-
 export default FeedbackOptions;
